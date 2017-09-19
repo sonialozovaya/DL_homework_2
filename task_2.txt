@@ -1,0 +1,83 @@
+(\b(O|o)[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6})
+81
+To: outlook.team@enron.com
+To: kimberly.olinger@enron.com
+To: outlook.team@enron.com
+ Outlook.2000@enron.com
+Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+off-yild@zdemail.zdlists.com.
+blank e-mail to on-yild@zdemail.zdlists.com
+To: kimberly.olinger@enron.com
+Sender: owner-strawbale@crest.org
+From: owner-strawbale@crest.org
+X-From: owner-strawbale@crest.org
+Sender: owner-strawbale@crest.org
+To: outlook.team@enron.com
+ Outlook.2000@enron.com
+Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+From: outlook-migration-team@enron.com
+From: outlook-migration-team@enron.com
+ove@commissioner.com . Do not respond to this email directly.   =09
+	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	gerald.nemec@enron.com, mary.ogden@enron.com, carol.st.@enron.com, 
+	lee.jackson@enron.com, b..boxx@enron.com, randy.otto@enron.com, 
+	lucy.ortiz@enron.com, a..martin@enron.com, tana.jones@enron.com, 
+	david.oxley@enron.com, joseph.deffner@enron.com, 
+	jeff.andrews@enron.com, lucy.ortiz@enron.com, 
+	kourtney.nelson@enron.com, tracy.ngo@enron.com, jeffrey.oh@enron.com, 
+	david.oxley@enron.com, joseph.deffner@enron.com, 
+	jeff.andrews@enron.com, lucy.ortiz@enron.com, 
+From: online.service@schwab.com
+X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+From: chairman.office@enron.com
+	wes.colwell@enron.com, sally.beck@enron.com, david.oxley@enron.com, 
+	lucy.ortiz@enron.com, josey'.'scott@enron.com, 
+	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	gerald.nemec@enron.com, mary.ogden@enron.com, carol.st.@enron.com, 
+	lee.jackson@enron.com, b..boxx@enron.com, randy.otto@enron.com, 
+	lucy.ortiz@enron.com, a..martin@enron.com, tana.jones@enron.com, 
+	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+	preston.ochsner@enron.com, seung-taek.oh@enron.com, 
+	preston.ochsner@enron.com, seung-taek.oh@enron.com, 
+	steve.olinde@enron.com, michael.olsen@enron.com, 
+	steve.olinde@enron.com, michael.olsen@enron.com, 
+	paulita.olvera@enron.com, justin.o'malley@enron.com, 
+	lucy.ortiz@enron.com, h..otto@enron.com, david.oxley@enron.com, 
+	lucy.ortiz@enron.com, h..otto@enron.com, david.oxley@enron.com, 
+	lucy.ortiz@enron.com, h..otto@enron.com, david.oxley@enron.com, 
+	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	s..olinger@enron.com, h..otto@enron.com, david.parquet@enron.com, 
+	gerald.nemec@enron.com, mary.ogden@enron.com, carol.st.@enron.com, 
+	lee.jackson@enron.com, b..boxx@enron.com, randy.otto@enron.com, 
+	lucy.ortiz@enron.com, a..martin@enron.com, tana.jones@enron.com, 
+From: open2win.0ll1.net@mailman.enron.com
+X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+From: david.oxley@enron.com
+Cc: david.oxley@enron.com, brad.coleman@enron.com, michelle.cash@enron.com, 
+Bcc: david.oxley@enron.com, brad.coleman@enron.com, michelle.cash@enron.com, 
+X-cc: 'jonathan.o.stahl@accenture.com', O'rourke, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Torourke>, Oxley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Doxley>, Coleman, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bcolema>, Cash, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcash>, McDaniel, Kirk </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=151b1f73-1f0d9c60-8625697b-63e5ad>
+jonathan.o.stahl@accenture.com
+From: david.oxley@enron.com
+	s..olinger@enron.com, victor.munoz@enron.com, 
+	patti.sullivan@enron.com, h..otto@enron.com, c..giron@enron.com, 
+From: oportunity@cells4free.com
+X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+	s..muller@enron.com, julia.murray@enron.com, cindy.olson@enron.com, 
+off-yild@zdemail.zdlists.com.
+blank e-mail to on-yild@zdemail.zdlists.com
+From: owner-strawbale@crest.org
+X-From: owner-strawbale@crest.org
+Sender: owner-strawbale@crest.org
+O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+Sender: owner-strawbale@crest.org
+Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+ Outlook.2000@enron.com
+	david.oxley@enron.com
+	kourtney.nelson@enron.com, tracy.ngo@enron.com, jeffrey.oh@enron.com, 
+	kourtney.nelson@enron.com, tracy.ngo@enron.com, jeffrey.oh@enron.com, 
+jonathan.o.stahl@accenture.com
+From: david.oxley@enron.com
