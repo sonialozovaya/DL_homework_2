@@ -1,0 +1,65 @@
+0[0-3]:[0-5][0-9]:[0-5][0-9]\nPM\s
+63
+""Buckner, Buck"" <buck.buckner@honeywell.com> on 10/12/2000 01:12:21 PM
+""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/15/2000 02:32:57 PM
+""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/16/2000 02:44:36 PM
+""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/17/2000 02:37:55 PM
+""CapacityCenter.com"" <marketing@capacitycenter.com> on 05/18/2000 02:55:43 PM
+""Jeff Steele"" <jsteele@pira.com> on 02/14/2000 01:51:00 PM
+""George Rahal"" <george.rahal@acnpower.com> on 02/07/2000 03:13:58 PM
+""George Rahal"" <george.rahal@acnpower.com> on 02/07/2000 03:13:58 PM
+""mary richards"" <maryrichards7@hotmail.com> on 01/31/2000 02:39:43 PM
+enorman@living.com on 01/18/2000 02:44:50 PM
+Jed Hershey <jhershey@sempratrading.com> on 04/09/2001 02:29:39 PM
+Dexter Steis <dexter@intelligencepress.com> on 03/26/2001 02:22:41 PM
+liane_kucher@mcgraw-hill.com on 02/28/2001 02:14:43 PM
+liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM
+""George Richards"" <cbpres@austin.rr.com> on 02/21/2001 01:10:33 PM
+""Jeff Smith"" <jsmith@austintx.com> on 02/21/2001 01:24:15 PM
+""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 11/28/2000 01:02:22 PM
+SHERRI SORRELS <ssorrels_vitoltvl@yahoo.com> on 11/03/2000 01:52:21 PM
+""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/15/2000 02:32:57 PM
+""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/16/2000 02:44:36 PM
+""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/17/2000 02:37:55 PM
+""CapacityCenter.com"" <marketing@capacitycenter.com> on 05/18/2000 02:55:43 PM
+""Jeff Steele"" <jsteele@pira.com> on 02/14/2000 01:51:00 PM
+""George Rahal"" <george.rahal@acnpower.com> on 02/07/2000 03:13:58 PM
+""George Rahal"" <george.rahal@acnpower.com> on 02/07/2000 03:13:58 PM
+""mary richards"" <maryrichards7@hotmail.com> on 01/31/2000 02:39:43 PM
+enorman@living.com on 01/18/2000 02:44:50 PM
+Jed Hershey <jhershey@sempratrading.com> on 04/09/2001 02:29:39 PM
+Dexter Steis <dexter@intelligencepress.com> on 03/26/2001 02:22:41 PM
+liane_kucher@mcgraw-hill.com on 02/28/2001 02:14:43 PM
+liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM
+""George Richards"" <cbpres@austin.rr.com> on 02/21/2001 01:10:33 PM
+""Jeff Smith"" <jsmith@austintx.com> on 02/21/2001 01:24:15 PM
+""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 11/28/2000 01:02:22 PM
+SHERRI SORRELS <ssorrels_vitoltvl@yahoo.com> on 11/03/2000 01:52:21 PM
+""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+""Buckner, Buck"" <buck.buckner@honeywell.com> on 10/12/2000 01:12:21 PM
+""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/17/2000 02:37:55 PM
+""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/16/2000 02:44:36 PM
+""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 08/15/2000 02:32:57 PM
+enorman@living.com on 01/18/2000 02:44:50 PM
+""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+""mary richards"" <maryrichards7@hotmail.com> on 01/31/2000 02:39:43 PM
+""Buckner, Buck"" <buck.buckner@honeywell.com> on 10/12/2000 01:12:21 PM
+""George Richards"" <cbpres@austin.rr.com> on 09/26/2000 01:18:45 PM
+""George Rahal"" <george.rahal@acnpower.com> on 02/07/2000 03:13:58 PM
+SHERRI SORRELS <ssorrels_vitoltvl@yahoo.com> on 11/03/2000 01:52:21 PM
+""Lucy Gonzalez"" <stagecoachmama@hotmail.com> on 11/28/2000 01:02:22 PM
+""George Rahal"" <george.rahal@acnpower.com> on 02/07/2000 03:13:58 PM
+""Jeff Steele"" <jsteele@pira.com> on 02/14/2000 01:51:00 PM
+""Jeff Smith"" <jsmith@austintx.com> on 02/21/2001 01:24:15 PM
+""George Richards"" <cbpres@austin.rr.com> on 02/21/2001 01:10:33 PM
+liane_kucher@mcgraw-hill.com on 02/28/2001 02:14:43 PM
+liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM
+Dexter Steis <dexter@intelligencepress.com> on 03/26/2001 02:22:41 PM
+Jed Hershey <jhershey@sempratrading.com> on 04/09/2001 02:29:39 PM
+""CapacityCenter.com"" <marketing@capacitycenter.com> on 05/18/2000 02:55:43 PM
